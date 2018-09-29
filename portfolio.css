@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower|Merienda|Permanent+Marker|Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Cookie|Dancing+Script|Indie+Flower|Merienda|Permanent+Marker|Satisfy');
+
+
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	width: 100%;
+	height: 155px;
+	background-color:#29B3F0;
+
+}
+.container img{
+	width: 80px;
+	height: 80px;
+	border-radius:100%;
+	padding: 30px 50px;
+}
+.my_photo img{
+	width: 200px;
+	height: 200px;
+	border-radius:100%;
+	margin-left: 45%;
+	margin-top: -114px
+}
+.my_photo pre{
+	font-size: 20px;
+	margin-left: 45%;
+	margin-top: -10px;
+}
+.big{
+	width:1600px;
+	height: 1500px;
+	padding-top: 300px;
+/*	background-color:pink;
+*/	 margin: 0 auto;
+
+}
+.big1{
+	width: 1600px;
+	height: 1000px;
+	margin:0 auto;
+/*	background-color:lightgrey;
+*/	display: flex;
+	justify-content: flex-end;
+}
+.big1 img{
+	width: 1000px;
+	height: 1500px;
+	
+}
+.big h1{
+	font-family: 'Indie Flower', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Merienda', cursive;
+
+	font-weight: 400;
+	font-size: 40px;
+	color:#0A9BD1 
+
+}
+.introduction{
+	width: 600px;
+	height: 1000px;
+/*	background-color:#A0AADC;
+*/}
+.introduction1{
+/*	border:2px solid blue;
+*/	font-family:arial;
+	line-height: 1.8;
+	padding: 10px;
+	color:#9027B2;
+	font-size: 20px;
+}
+.introduction1 h2{
+	font-family: 'Indie Flower', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Merienda', cursive;
+}
+.introduction1 p{
+	font-size: 40px;
+	font-family: 'Cookie', cursive;
+
+}
